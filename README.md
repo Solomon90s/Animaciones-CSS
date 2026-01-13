@@ -2,23 +2,23 @@
 
 ## Animaciones CSS
 
-1. [animate.css](https://animate.style/?trk=public_post-text/?target=blank)
-2. [minimamente](https://www.minimamente.com/project/magic/?target=blank)
-3. [animatopy](https://sarthology.github.io/Animatopy/?target=blank)
-4. [woahcss](https://www.joerezendes.com/projects/Woah.css/?target=blank)
-5. [gsap](https://gsap.com/?target=blank)
+1. <a href="https://animate.style/?trk=public_post-text/" target="_blank">animate.css</a>
+2. <a href="https://www.minimamente.com/project/magic/" target="_blank">minimamente</a>
+3. <a href="https://sarthology.github.io/Animatopy/" target="_blank">animatopy</a>
+4. <a href="https://www.joerezendes.com/projects/Woah.css/" target="_blank">woahcss</a>
+5. <a href="https://gsap.com/" target="_blank">gsap</a>
 
 ## Animaciones de carga
 
-1. [loading.io](https://loading.io/?target=blank)
+1. <a href="https://loading.io/" target="_blank">loading.io</a>
 
 ## Animaciones de scroll
 
-1. [aos](https://michalsnik.github.io/aos/?target=blank)
-2. [lenisdarkroom](https://lenis.darkroom.engineering/?target=blank)
+1. <a href="https://michalsnik.github.io/aos/" target="_blank">aos</a>
+2. <a href="https://lenis.darkroom.engineering/" target="_blank">lenisdarkroom</a>
 
 ## Animaciones tailwindcss
 
-1. [tailwind-animated](https://www.tailwindcss-animated.com/?target=blank)
-2. [tailwindanimations.co](https://www.tailwindanimations.co/?target=blank)
-3. [tailwind-animations](https://tailwind-animations.com/?target=blank)
+1. <a href="https://www.tailwindcss-animated.com/" target="_blank">tailwind-animated</a>
+2. <a href="https://www.tailwindanimations.co/" target="_blank">tailwindanimations.co</a>
+3. <a href="https://tailwind-animations.com/" target="_blank">tailwind-animations</a>
