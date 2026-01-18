@@ -7,7 +7,7 @@
 3. [animatopy](https://sarthology.github.io/Animatopy/)
 4. [woahcss](https://www.joerezendes.com/projects/Woah.css/)
 5. [gsap](https://gsap.com/)
-6. [animejs[(https://animejs.com/)
+6. [animejs](https://animejs.com/)
 
 ## Animaciones de carga
 
