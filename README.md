@@ -8,6 +8,7 @@
 4. [woahcss](https://www.joerezendes.com/projects/Woah.css/)
 5. [gsap](https://gsap.com/)
 6. [animejs](https://animejs.com/)
+7. [motion one](https://motion.dev/)
 
 ## Animaciones de carga
 
